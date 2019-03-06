@@ -1,0 +1,125 @@
+/*Accessibility*/
+a:visited
+{
+	color: #604F6C;
+	font-weight: 600;
+}
+a:link
+{
+	color: #604F6C;
+	font-weight: 600;
+}
+a:hover
+{
+	color: #000;
+	font-weight: 600;
+}
+a:active
+{
+	color: #fff;
+	font-weight: 600;
+}
+a:focus
+{
+	color: #fff;
+	font-weight: 600;
+}
+body
+{
+	background-color: #000;
+	color: black;
+}
+#everything
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	border:solid 40px #f45b69;
+	border-radius: 10px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#innerborder
+{
+	border: solid 2px #000;
+	padding-left: 22px;
+	padding-right: 22px;
+}
+h1
+{
+	text-align: center;
+	font-size: 44px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+#topName
+{
+	color: #756083;
+	font-size: 20px;
+	font-weight: 600;
+}
+aside
+{
+	font-family: 'Josefin Sans', sans-serif;
+	width: 500px;
+	float: left;
+	background-color: #FAF9DB;
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border: dotted 2px #000;
+	font-size: 14px;
+}
+#webcontains
+{
+	font-weight: 600;
+	color: #C10C1D;
+	font-size: 20px;
+}
+#quote
+{
+	text-align: center;
+	width: 350px;
+	float: right;
+	margin-top: 30px;
+	margin-left: 30px;
+	background-color: #b0a1ba;
+	padding: 10px;
+	font-weight: 600;
+}
+#name
+{
+	font-size: 12px;
+	font-weight: 400;
+}
+.hotlinks
+{
+	clear: both;
+	margin-top: 30px;
+	
+}
+#part1
+{
+	text-indent: 50px;
+}
+h2
+{
+	text-align: center;
+	background-color: #0BB2C5;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	border-radius: 10px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.belowlist
+{
+	font-style: italic;
+	font-weight: 600;
+}
+footer
+{
+	text-align: center;
+}
+bottomName
+{
+	color: #756083;
+}
